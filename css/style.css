@@ -38,23 +38,13 @@ p{
     font-size: 1rem;
 }
 h1{
-    font-size: 4rem;
+    font-size: 3rem;
 }
-h2{
-    font-size: 3.5rem;
-}
+
 h3{
-    font-size: 3em;
-}
-h4{
-    font-size: 2.5em;
-}
-h5{
     font-size: 2em;
 }
-h6{
-    font-size: 1.5rem;
-}
+
 /* clases web */
 .flex{
     display: flex;
@@ -94,7 +84,7 @@ img{
     padding: 3%;
 }
 .padding-m{
-    padding: 6%;
+    padding: 4%;
 }
 article{
     background-color: rgb(227, 227, 227);
