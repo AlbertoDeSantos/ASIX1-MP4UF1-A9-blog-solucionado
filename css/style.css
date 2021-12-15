@@ -1,7 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+html{
+    font-size: 16px;
+}
+
+p{
+    font-size: 1rem;
+}
+
+h1{
+    font-size: 3rem;
+}
+
+h3{
+    font-size: 2rem;
+}
 * {
     box-sizing: border-box;
-    font-size: 16px;
 }
 body{
     margin: 0;
@@ -32,17 +46,6 @@ body{
 .column-4{
     width: 25%;
     float: left;
-}
-
-p{
-    font-size: 1rem;
-}
-h1{
-    font-size: 3rem;
-}
-
-h3{
-    font-size: 2em;
 }
 
 /* clases web */
@@ -100,13 +103,16 @@ a{
     color: whitesmoke;
 }
 
+#prefooter p{
+    font-size: 0.7rem;
+}
 footer{
     background-color: black;
     color: rgba(245, 245, 245, 0.536);
-
 }
 footer p{
     margin: 0;
+    font-size: 0.7rem;
 }
 
 
