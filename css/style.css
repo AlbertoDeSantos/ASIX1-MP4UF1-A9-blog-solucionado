@@ -93,6 +93,9 @@ img{
 .padding-s{
     padding: 3%;
 }
+.padding-m{
+    padding: 6%;
+}
 article{
     background-color: rgb(227, 227, 227);
 }
