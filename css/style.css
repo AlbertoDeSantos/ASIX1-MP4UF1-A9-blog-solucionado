@@ -82,6 +82,7 @@ header{
     background-image: url("../img/brandon-burridge-4o7f9_Z73a4-unsplash.jpg");
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
 }
 img{
     width: 100%;
