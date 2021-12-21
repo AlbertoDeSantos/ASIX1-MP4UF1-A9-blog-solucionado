@@ -120,22 +120,15 @@ img{
     background-position: center;
 }
 
-
-.padding-s{
-    padding: 3%;
-}
-.padding-m{
-    padding: 4%;
-}
 article{
     background-color: rgb(227, 227, 227);
 }
-
 
 a{
     text-decoration: none;
     color: black;
 }
+
 #prefooter{
     background-color: #495057;
     color: whitesmoke;
@@ -148,7 +141,16 @@ footer{
 }
 
 footer p{
-    font-size: 0.7rem;
+    font-size: 0.8rem;
+}
+
+/* clases auxiliares */
+.padding-s{
+    padding: 3%;
+}
+
+.padding-m{
+    padding: 6%;
 }
 
 @media only screen and (max-width: 700px) {
