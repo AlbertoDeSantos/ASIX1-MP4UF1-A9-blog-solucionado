@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
 html{
     font-size: 16px;
 }
@@ -12,34 +13,42 @@ h1{
     font-size: 3rem;
 }
 
-h3{
+h2{
     font-size: 2rem;
 }
 
-h4{
+h3{
     font-size: 1.6rem;
 }
 
-h5{
+h4{
     font-size: 1.3rem;
+}
+
+h5{
+    font-size: 1.15rem;
 }
 
 h6{
     font-size: 1.05rem;
 }
+
 * {
     box-sizing: border-box;
 }
+
 body{
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+
 /* Clear floats after the columns */
 .row:after {
     content: "";
     display: table;
     clear: both;
 }
+
 /* Diseño de columnas */
 .column-1{
     width: 100%;
