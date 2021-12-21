@@ -25,7 +25,7 @@ h5{
 }
 
 h6{
-    font-size: 1.1rem;
+    font-size: 1.05rem;
 }
 * {
     box-sizing: border-box;
@@ -147,7 +147,9 @@ footer{
     color: rgba(245, 245, 245, 0.536);
 }
 
-
+footer p{
+    font-size: 0.7rem;
+}
 
 @media only screen and (max-width: 700px) {
 /*reglas*/
